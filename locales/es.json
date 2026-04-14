@@ -160,54 +160,6 @@
       "button": "Contactar"
     }
   },
-  "program": {
-    "page": {
-      "title": "Programa electoral"
-    },
-    "hero": {
-      "title": "Programa electoral",
-      "subtitle": "Propuestas para mejorar Mediona con una visión cercana, sostenible y realista"
-    },
-    "sections": {
-      "title": "Ejes del programa"
-    },
-    "urbanism": {
-      "title": "Urbanismo",
-      "text": "Mejora de los espacios públicos e infraestructuras del municipio con una planificación sostenible y eficiente."
-    },
-    "environment": {
-      "title": "Medio ambiente",
-      "text": "Protección del entorno natural, reducción de residuos e impulso de energías renovables."
-    },
-    "social": {
-      "title": "Servicios sociales",
-      "text": "Apoyo a las personas y familias con más recursos y atención directa."
-    },
-    "measures": {
-      "title": "Medidas destacadas",
-      "infrastructure": {
-        "title": "Infraestructuras",
-        "text": "Rehabilitación de espacios públicos y mejora del alumbrado."
-      },
-      "sustainability": {
-        "title": "Sostenibilidad",
-        "text": "Impulso de zonas verdes y eficiencia energética municipal."
-      },
-      "participation": {
-        "title": "Participación ciudadana",
-        "text": "Más consultas vecinales y transparencia en la gestión pública."
-      },
-      "education": {
-        "title": "Educación y juventud",
-        "text": "Programas de apoyo educativo y actividades para jóvenes."
-      }
-    },
-    "cta": {
-      "title": "Participa en el cambio",
-      "text": "Tu opinión es clave para construir un mejor futuro para Mediona",
-      "button": "Contactar"
-    }
-  },
   "actualitat": {
     "page": {
       "title": "Actualidad - UCIN Mediona"

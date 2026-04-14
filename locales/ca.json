@@ -160,54 +160,6 @@
       "button": "Contacta"
     }
   },
-  "program": {
-    "page": {
-      "title": "Programa electoral"
-    },
-    "hero": {
-      "title": "Programa electoral",
-      "subtitle": "Propostes per millorar Mediona amb una visió propera, sostenible i realista"
-    },
-    "sections": {
-      "title": "Eixos del programa"
-    },
-    "urbanism": {
-      "title": "Urbanisme",
-      "text": "Millora dels espais públics i infraestructures del municipi amb una planificació sostenible i eficient."
-    },
-    "environment": {
-      "title": "Medi ambient",
-      "text": "Protecció del medi natural, reducció de residus i impuls d’energies renovables."
-    },
-    "social": {
-      "title": "Serveis socials",
-      "text": "Suport a les persones i famílies amb més recursos i atenció directa."
-    },
-    "measures": {
-      "title": "Mesures destacades",
-      "infrastructure": {
-        "title": "Infraestructures",
-        "text": "Rehabilitació d’espais públics i millora de l’enllumenat."
-      },
-      "sustainability": {
-        "title": "Sostenibilitat",
-        "text": "Impuls de zones verdes i eficiència energètica municipal."
-      },
-      "participation": {
-        "title": "Participació ciutadana",
-        "text": "Més consultes veïnals i transparència en la gestió pública."
-      },
-      "education": {
-        "title": "Educació i joventut",
-        "text": "Programes de suport educatiu i activitats per a joves."
-      }
-    },
-    "cta": {
-      "title": "Participa en el canvi",
-      "text": "La teva opinió és clau per construir un millor futur per a Mediona",
-      "button": "Contacta"
-    }
-  },
   "actualitat": {
     "page": {
       "title": "Actualitat - UCIN Mediona"
