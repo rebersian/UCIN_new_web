@@ -1,0 +1,256 @@
+{
+  "menu": {
+    "logo": "UNIÓN DE CIUDADANOS INDEPENDIENTES DE MEDIONA\n100% AUTÉNTICOS - 100% MEDIONA",
+    "qui_som": "Quiénes somos",
+    "propostes": "Propuestas",
+    "actualitat": "Actualidad",
+    "programa": "Programa electoral",
+    "contacte": "Contacto",
+    "lang": {
+      "ca": "Catalán",
+      "es": "Castellano"
+    }
+  },
+  "site": {
+    "title": "UCIN Mediona"
+  },
+  "index": {
+    "hero": {
+      "title": "Bienvenidos a UCIN Mediona",
+      "subtitle": "Trabajando por el futuro de nuestro municipio",
+      "btn": {
+        "about": "Conócenos",
+        "proposals": "Propuestas"
+      }
+    },
+    "proposals": {
+      "title": "Nuestras propuestas",
+      "urbanism": {
+        "title": "Urbanismo",
+        "text": "Mejora de los espacios públicos e infraestructuras."
+      },
+      "environment": {
+        "title": "Medio ambiente",
+        "text": "Proyectos sostenibles para el municipio."
+      },
+      "social": {
+        "title": "Servicios sociales",
+        "text": "Apoyo a las personas y familias."
+      }
+    },
+    "news": {
+      "title": "Actualidad",
+      "item1": {
+        "title": "Nueva propuesta presentada",
+        "text": "Hemos presentado nuevas iniciativas en el pleno municipal."
+      },
+      "item2": {
+        "title": "Reunión vecinal",
+        "text": "Escuchamos las inquietudes de los ciudadanos."
+      }
+    },
+    "cta": {
+      "title": "Participa con nosotros",
+      "text": "Haznos llegar tus ideas y propuestas",
+      "button": "Contacta"
+    }
+  },
+  "news": {
+    "page": {
+      "title": "Actualidad - UCIN Mediona"
+    },
+    "hero": {
+      "title": "Quienes somos",
+      "subtitle": "Noticias e información de nuestro municipio"
+    },
+    "content": {
+      "title": "Nuestra formación",
+      "intro": "UCIN Mediona es una agrupación de ciudadanos independientes que trabaja para mejorar la calidad de vida del municipio, defendiendo la transparencia, la cercanía y la participación ciudadana."
+    },
+    "cards": {
+      "card1": {
+        "title": "¿Qué es UCIN Mediona?",
+        "text1": "UCIN Mediona es un partido político municipalista formado por vecinos y vecinas que creen que es posible lograr una política cercana, eficaz y equitativa en la gestión de los recursos públicos.",
+        "text2": "Proponemos dejar a un lado los colores de siempre y, junto con la participación ciudadana, construir un municipio más justo.",
+        "text3": "Es necesario aplicar el sentido común."
+      },
+      "card2": {
+        "title": "¿Por qué UCIN Mediona?",
+        "text1": "Entre las principales preocupaciones están la inseguridad, la falta de inversión en los núcleos diseminados y la falta de empleo.",
+        "text2": "El municipio necesita un cambio en la forma de hacer las cosas.",
+        "text3": "Vecinos y vecinas como tú pueden liderar este cambio."
+      },
+      "card3": {
+        "title": "¿Cómo?",
+        "text1": "Queremos encajar los perfiles de nuestros integrantes con las concejalías más adecuadas.",
+        "text2": "Trabajaremos con rigor y dedicación, sin dejar el trabajo del Ayuntamiento en segundo plano.",
+        "text3": "Los ciudadanos merecen que nos dejemos la piel."
+      },
+      "card4": {
+        "title": "¿Para quién?",
+        "text1": "Nuestro proyecto tiene un alcance de más de 47 km².",
+        "text2": "Gobernemos o no, no dejaremos a nadie atrás.",
+        "text3": "Las inversiones se realizarán de manera escalonada y justa.",
+        "text4": "Somos 100% auténticos, 100% Mediona."
+      }
+    }
+  },
+  "contact": {
+    "page": {
+      "title": "Contacto - UCIN Mediona"
+    },
+    "hero": {
+      "title": "Contacta con nosotros",
+      "subtitle": "Envíanos tu mensaje y te responderemos lo antes posible"
+    },
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "button": "Enviar mensaje"
+    }
+  },
+  "proposals": {
+    "page": {
+      "title": "Propuestas - UCIN Mediona"
+    },
+    "hero": {
+      "title": "Propuestas",
+      "subtitle": "Noticias e información de nuestro municipio"
+    },
+    "section": {
+      "title": "Nuestras propuestas"
+    },
+    "cards": {
+      "urbanism": {
+        "title": "Urbanismo",
+        "text1": "Más vale prevenir que curar.",
+        "text2": "A quien madruga, Dios le ayuda."
+      },
+      "environment": {
+        "title": "Medio ambiente",
+        "text1": "No hay mal que por bien no venga.",
+        "text2": "El que siembra vientos, recoge tempestades."
+      },
+      "social": {
+        "title": "Servicios sociales",
+        "text1": "Nadie es más que nadie.",
+        "text2": "En casa de herrero, cuchillo de palo."
+      },
+      "economy": {
+        "title": "Economía y empleo",
+        "text1": "El que mucho abarca, poco aprieta.",
+        "text2": "A buen hambre no hay pan duro."
+      },
+      "transparency": {
+        "title": "Transparencia",
+        "text1": "La verdad siempre sale a la luz.",
+        "text2": "En boca cerrada no entran moscas."
+      },
+      "participation": {
+        "title": "Participación ciudadana",
+        "text1": "La unión hace la fuerza.",
+        "text2": "Cada maestrillo tiene su librillo."
+      }
+    },
+    "cta": {
+      "title": "Tus ideas cuentan",
+      "subtitle": "Ayúdanos a mejorar Mediona con tus propuestas",
+      "button": "Contactar"
+    }
+  },
+  "program": {
+    "page": {
+      "title": "Programa electoral"
+    },
+    "hero": {
+      "title": "Programa electoral",
+      "subtitle": "Propuestas para mejorar Mediona con una visión cercana, sostenible y realista"
+    },
+    "sections": {
+      "title": "Ejes del programa"
+    },
+    "urbanism": {
+      "title": "Urbanismo",
+      "text": "Mejora de los espacios públicos e infraestructuras del municipio con una planificación sostenible y eficiente."
+    },
+    "environment": {
+      "title": "Medio ambiente",
+      "text": "Protección del entorno natural, reducción de residuos e impulso de energías renovables."
+    },
+    "social": {
+      "title": "Servicios sociales",
+      "text": "Apoyo a las personas y familias con más recursos y atención directa."
+    },
+    "measures": {
+      "title": "Medidas destacadas",
+      "infrastructure": {
+        "title": "Infraestructuras",
+        "text": "Rehabilitación de espacios públicos y mejora del alumbrado."
+      },
+      "sustainability": {
+        "title": "Sostenibilidad",
+        "text": "Impulso de zonas verdes y eficiencia energética municipal."
+      },
+      "participation": {
+        "title": "Participación ciudadana",
+        "text": "Más consultas vecinales y transparencia en la gestión pública."
+      },
+      "education": {
+        "title": "Educación y juventud",
+        "text": "Programas de apoyo educativo y actividades para jóvenes."
+      }
+    },
+    "cta": {
+      "title": "Participa en el cambio",
+      "text": "Tu opinión es clave para construir un mejor futuro para Mediona",
+      "button": "Contactar"
+    }
+  },
+  "actualitat": {
+    "page": {
+      "title": "Actualidad - UCIN Mediona"
+    },
+    "hero": {
+      "title": "Actualidad",
+      "subtitle": "Noticias e información de nuestro municipio"
+    },
+    "list": {
+      "title": "Actualidad en Mediona"
+    },
+    "viewer": {
+      "placeholder": "Selecciona una noticia para ver el PDF."
+    },
+    "news": {
+      "28": "Carta al Ayuntamiento - Corte del pleno",
+      "27": "60 días Enero 2025",
+      "26": "60 días Octubre 2024",
+      "25": "Resumen reunión vecinos La Font y Sant Elies",
+      "24": "Denuncia residuos y solicitud de información césped artificial",
+      "23": "60 días Verano 2024",
+      "22": "Solicitud documentación detalle cobros y pagos en efectivo",
+      "21": "Revisión documentación",
+      "20": "60 días Junio 2024",
+      "19": "60 días Mayo 2024",
+      "18": "60 días Abril 2024",
+      "17": "60 días Marzo 2024 - El Suplemento (Especial día de la mujer)",
+      "16": "60 días Febrero 2024 - El Suplemento",
+      "15": "Informes incompletos sobre la recogida de basuras",
+      "14": "Informe medio ambiente, cisternas, reunión 21 febrero",
+      "13": "Solicitud documentación",
+      "12": "60 días Febrero 2024",
+      "11": "Carta al Ayuntamiento - AAVV La Font del Bosc",
+      "10": "60 días Diciembre 2023 - Artículo completo",
+      "9": "60 días Diciembre 2023",
+      "8": "Tasa de basuras - UCIN vota NO",
+      "7": "Carta al Ayuntamiento - Denuncia residuos contaminantes",
+      "6": "Carta al Ayuntamiento - Tasa de basuras",
+      "5": "Carta al Ayuntamiento - Incumplimiento con la oposición",
+      "4": "Primeros 90 días en la oposición",
+      "3": "Carta al Ayuntamiento - ¿Restricción o censura?",
+      "2": "Carta al Ayuntamiento - Mejoras necesarias",
+      "1": "60 días Julio 2023"
+    }
+  }
+}

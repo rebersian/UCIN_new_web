@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="actualitat.page.title"></title>
+
+  <link rel="stylesheet" href="../css/styles.css">
+</head>
+
+<body>
+
+  <div id="header"></div>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container">
+      <h2 data-i18n="actualitat.hero.title"></h2>
+      <p data-i18n="actualitat.hero.subtitle"></p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container containerActualidad">
+
+      <!-- LISTADO -->
+      <div class="box">
+        <h2 class="item-center" data-i18n="actualitat.list.title"></h2>
+
+        <div id="lista-noticias"></div>
+      </div>
+
+      <!-- VISOR -->
+      <div>
+        <p id="contenido" class="caja-fija">
+          <i data-i18n="actualitat.viewer.placeholder"></i>
+        </p>
+      </div>
+
+    </div>
+  </section>
+
+  <div id="footer"></div>
+  <script defer src="../js/i18n.js"></script>
+  <script src="../js/include.js"></script>
+  <script src="../js/actualitat.js"></script>
+</body>
+</html>
