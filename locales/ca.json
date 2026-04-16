@@ -1,208 +1,121 @@
 {
-  "menu": {
-    "logo": "UNIÓ DE CIUTADANS INDEPENDENTS DE MEDIONA\n100% AUTÈNTICS - 100% MEDIONA",
-    "qui_som": "Qui som",
-    "propostes": "Propostes",
-    "actualitat": "Actualitat",
-    "programa": "Programa electoral",
-    "contacte": "Contacte",
-    "lang": {
-      "ca": "Català",
-      "es": "Castellano"
-    }
-  },
-  "site": {
-    "title": "UCIN Mediona"
-  },
-  "index": {
-    "hero": {
-      "title": "Benvinguts a UCIN Mediona",
-      "subtitle": "Treballant pel futur del nostre municipi",
-      "btn": {
-        "about": "Coneix-nos",
-        "proposals": "Propostes"
-      }
-    },
-    "proposals": {
-      "title": "Les nostres propostes",
-      "urbanism": {
-        "title": "Urbanisme",
-        "text": "Millora dels espais públics i infraestructures."
-      },
-      "environment": {
-        "title": "Medi ambient",
-        "text": "Projectes sostenibles per al municipi."
-      },
-      "social": {
-        "title": "Serveis socials",
-        "text": "Suport a les persones i famílies."
-      }
-    },
-    "news": {
-      "title": "Actualitat",
-      "item1": {
-        "title": "Nova proposta presentada",
-        "text": "Hem presentat noves iniciatives al ple municipal."
-      },
-      "item2": {
-        "title": "Reunió veïnal",
-        "text": "Escoltem les inquietuds dels ciutadans."
-      }
-    },
-    "cta": {
-      "title": "Participa amb nosaltres",
-      "text": "Fes-nos arribar les teves idees i propostes",
-      "button": "Contacta"
-    }
-  },
-  "news": {
-    "page": {
-      "title": "Actualitat - UCIN Mediona"
-    },
-    "hero": {
-      "title": "Qui som",
-      "subtitle": "Notícies i informació del nostre municipi"
-    },
-    "content": {
-      "title": "La nostra formació",
-      "intro": "UCIN Mediona és una agrupació de ciutadans independents que treballa per millorar la qualitat de vida del municipi, defensant la transparència, la proximitat i la participació ciutadana."
-    },
-    "cards": {
-      "card1": {
-        "title": "Què és UCIN Mediona?",
-        "text1": "UCIN Mediona és un partit polític municipalista format per veïns i veïnes que creuen que es pot assolir una política propera, eficaç i equitativa en la gestió dels recursos públics.",
-        "text2": "Proposem fer a un costat els colors de sempre i, junt amb la participació ciutadana, construir un municipi més just.",
-        "text3": "Cal posar sentit comú."
-      },
-      "card2": {
-        "title": "Per què UCIN Mediona?",
-        "text1": "Entre les principals preocupacions hi ha la inseguretat, la manca d'inversió als nuclis disseminats i la manca d'ocupació.",
-        "text2": "El municipi necessita un canvi en la manera de fer les coses.",
-        "text3": "Veïns i veïnes com tu poden liderar aquest canvi."
-      },
-      "card3": {
-        "title": "Com?",
-        "text1": "Volem encaixar els perfils dels nostres integrants amb les regidories més adients.",
-        "text2": "Treballarem amb rigor i dedicació, sense deixar la feina de l’Ajuntament en segon pla.",
-        "text3": "Els ciutadans mereixen que ens hi deixem la pell."
-      },
-      "card4": {
-        "title": "Per a qui?",
-        "text1": "El nostre projecte té un abast de més de 47 km².",
-        "text2": "Governem o no, no deixarem ningú enrere.",
-        "text3": "Les inversions es faran de manera esglaonada i justa.",
-        "text4": "Som 100% autèntics, 100% Mediona."
-      }
-    }
-  },
-  "contact": {
-    "page": {
-      "title": "Contacta - UCIN Mediona"
-    },
-    "hero": {
-      "title": "Contacta amb nosaltres",
-      "subtitle": "Envia’ns el teu missatge i et respondrem el més aviat possible"
-    },
-    "form": {
-      "name": "Nom",
-      "email": "Correu electrònic",
-      "subject": "Assumpte",
-      "message": "Missatge",
-      "button": "Enviar missatge"
-    }
-  },
-  "proposals": {
-    "page": {
-      "title": "Propostes - UCIN Mediona"
-    },
-    "hero": {
-      "title": "Propostes",
-      "subtitle": "Notícies i informació del nostre municipi"
-    },
-    "section": {
-      "title": "Les nostres propostes"
-    },
-    "cards": {
-      "urbanism": {
-        "title": "Urbanisme",
-        "text1": "Casa feta, casa segura.",
-        "text2": "No deixis per demà el que puguis fer avui."
-      },
-      "environment": {
-        "title": "Medi ambient",
-        "text1": "Al maig, cada dia un raig.",
-        "text2": "Qui sembra, recull."
-      },
-      "social": {
-        "title": "Serveis socials",
-        "text1": "On hi ha gana, no hi ha pa dur.",
-        "text2": "Val més sol que mal acompanyat."
-      },
-      "economy": {
-        "title": "Economia i ocupació",
-        "text1": "Qui no arrisca no pisca.",
-        "text2": "De mica en mica s’omple la pica."
-      },
-      "transparency": {
-        "title": "Transparència",
-        "text1": "La veritat no té amagatalls.",
-        "text2": "Quan el riu sona, aigua porta."
-      },
-      "participation": {
-        "title": "Participació ciutadana",
-        "text1": "La unió fa la força.",
-        "text2": "Entre tots ho farem tot."
-      }
-    },
-    "cta": {
-      "title": "Les teves idees compten",
-      "subtitle": "Ajuda’ns a millorar Mediona amb les teves propostes",
-      "button": "Contacta"
-    }
-  },
-  "actualitat": {
-    "page": {
-      "title": "Actualitat - UCIN Mediona"
-    },
-    "hero": {
-      "title": "Actualitat",
-      "subtitle": "Notícies i informació del nostre municipi"
-    },
-    "list": {
-      "title": "Actualitat a Mediona"
-    },
-    "viewer": {
-      "placeholder": "Selecciona una notícia per veure el PDF."
-    },
-    "news": {
-      "28": "Carta a l'Ajuntament - Tall del ple",
-      "27": "60 dies Gener 2025",
-      "26": "60 dies Octubre 2024",
-      "25": "Resum reunió veïns La Font i Sant Elies",
-      "24": "Denúncia residus i sol·licitud d'informació gespa artificial",
-      "23": "60 dies Estiu 2024",
-      "22": "Sol·licitud documentació detall cobraments i pagaments d'efectiu",
-      "21": "Revisió documentació",
-      "20": "60 dies Juny 2024",
-      "19": "60 dies Maig 2024",
-      "18": "60 dies Abril 2024",
-      "17": "60 dies Març 2024 - El Suplement (Especial dia de la dona)",
-      "16": "60 dies Febrer 2024 - El Suplement",
-      "15": "Informes incomplets sobre la recollida d'escombraries",
-      "14": "Informe medi ambient, cisternes, reunió 21 febrer",
-      "13": "Sol·licitud documentació",
-      "12": "60 dies Febrer 2024",
-      "11": "Carta a l'Ajuntament - AAVV La Font del Bosc",
-      "10": "60 dies Desembre 2023 - Article complet",
-      "9": "60 dies Desembre 2023",
-      "8": "Taxa d'escombreries - UCIN vota NO!",
-      "7": "Carta a l'Ajuntament - Denúncia residus contaminants",
-      "6": "Carta a l'Ajuntament - Taxa d'escombreries",
-      "5": "Carta a l'Ajuntament - Incompliment amb l'oposició",
-      "4": "Primers 90 dies a l'oposició",
-      "3": "Carta a l'Ajuntament - Restricció o censura?",
-      "2": "Carta a l'Ajuntament - Millores necessàries",
-      "1": "60 dies Juliol 2023"
-    }
-  }
+  "site.title": "UCIN Mediona",
+
+  "menu.logo": "UNIÓ DE CIUTADANS INDEPENDENTS DE MEDIONA\n100% AUTÈNTICS - 100% MEDIONA",
+  "menu.qui_som": "Qui som",
+  "menu.propostes": "Propostes",
+  "menu.actualitat": "Actualitat",
+  "menu.programa": "Programa electoral",
+  "menu.contacte": "Contacte",
+  "menu.lang.ca": "Català",
+  "menu.lang.es": "Castellano",
+  
+  "index.hero.title": "Benvinguts a UCIN Mediona",
+  "index.hero.subtitle": "Treballant pel futur del nostre municipi",
+  "index.proposals.title": "Les nostres propostes",
+  "index.proposals.urbanism.title": "Urbanisme",
+  "index.proposals.urbanism.text": "Millora dels espais públics i infraestructures.",
+  "index.proposals.environment.title": "Medi ambient",
+  "index.proposals.environment.text": "Projectes sostenibles per al municipi.",
+  "index.proposals.social.title": "Serveis socials",
+  "index.proposals.social.text": "Suport a les persones i famílies.",
+  "index.news.title": "Actualitat",
+  "index.news.item1.title": "Nova proposta presentada",
+  "index.news.item1.text": "Hem presentat noves iniciatives al ple municipal.",
+  "index.news.item2.title": "Reunió veïnal",
+  "index.news.item2.text": "Escoltem les inquietuds dels ciutadans.",
+  "index.cta.title": "Participa amb nosaltres",
+  "index.cta.text": "Fes-nos arribar les teves idees i propostes",
+  "index.cta.button": "Contacta",
+  
+  "qui_som.page.title": "UCIN Mediona",
+  "qui_som.hero.title": "Qui som",
+  "qui_som.hero.subtitle": "La nostra formació",
+  "qui_som.content.intro": "UCIN Mediona és una agrupació de ciutadans independents que treballa per millorar la qualitat de vida del municipi, defensant la transparència, la proximitat i la participació ciutadana.",
+  "qui_som.cards.card1.title": "Què és UCIN Mediona?",
+  "qui_som.cards.card1.text1": "UCIN Mediona és un partit polític municipalista format per veïns i veïnes que creuen que es pot assolir una política propera, eficaç i equitativa en la gestió dels recursos públics.",
+  "qui_som.cards.card1.text2": "Proposem fer a un costat els colors de sempre i, junt amb la participació ciutadana, construir un municipi més just.",
+  "qui_som.cards.card1.text3": "Cal posar sentit comú.",
+  "qui_som.cards.card2.title": "Per què UCIN Mediona?",
+  "qui_som.cards.card2.text1": "Entre les principals preocupacions hi ha la inseguretat, la manca d'inversió als nuclis disseminats i la manca d'ocupació.",
+  "qui_som.cards.card2.text2": "El municipi necessita un canvi en la manera de fer les coses.",
+  "qui_som.cards.card2.text3": "Veïns i veïnes com tu poden liderar aquest canvi.",
+  "qui_som.cards.card3.title": "Com?",
+  "qui_som.cards.card3.text1": "Volem encaixar els perfils dels nostres integrants amb les regidories més adients.",
+  "qui_som.cards.card3.text2": "Treballarem amb rigor i dedicació, sense deixar la feina de l’Ajuntament en segon pla.",
+  "qui_som.cards.card3.text3": "Els ciutadans mereixen que ens hi deixem la pell.",
+  "qui_som.cards.card4.title": "Per a qui?",
+  "qui_som.cards.card4.text1": "El nostre projecte té un abast de més de 47 km².",
+  "qui_som.cards.card4.text2": "Governem o no, no deixarem ningú enrere.",
+  "qui_som.cards.card4.text3": "Les inversions es faran de manera esglaonada i justa.",
+  "qui_som.cards.card4.text4": "Som 100% autèntics, 100% Mediona.",
+
+  "proposals.page.title": "UCIN Mediona",
+  "proposals.hero.title": "Propostes",
+  "proposals.hero.subtitle": "Les nostres propostes",
+  "proposals.cards.urbanism.title": "Urbanisme",
+  "proposals.cards.urbanism.text1": "Casa feta, casa segura.",
+  "proposals.cards.urbanism.text2": "No deixis per demà el que puguis fer avui.",
+  "proposals.cards.environment.title": "Medi ambient",
+  "proposals.cards.environment.text1": "Al maig, cada dia un raig.",
+  "proposals.cards.environment.text2": "Qui sembra, recull.",
+  "proposals.cards.social.title": "Serveis socials",
+  "proposals.cards.social.text1": "On hi ha gana, no hi ha pa dur.",
+  "proposals.cards.social.text2": "Val més sol que mal acompanyat.",
+  "proposals.cards.economy.title": "Economia i ocupació",
+  "proposals.cards.economy.text1": "Qui no arrisca no pisca.",
+  "proposals.cards.economy.text2": "De mica en mica s’omple la pica.",
+  "proposals.cards.transparency.title": "Transparència",
+  "proposals.cards.transparency.text1": "La veritat no té amagatalls.",
+  "proposals.cards.transparency.text2": "Quan el riu sona, aigua porta.",
+  "proposals.cards.participation.title": "Participació ciutadana",
+  "proposals.cards.participation.text1": "La unió fa la força.",
+  "proposals.cards.participation.text2": "Entre tots ho farem tot.",
+  "proposals.cta.title": "Les teves idees compten",
+  "proposals.cta.subtitle": "Ajuda’ns a millorar Mediona amb les teves propostes",
+  "proposals.cta.button": "Contacta",
+
+  "actualitat.page.title": "UCIN Mediona",
+  "actualitat.hero.title": "Actualitat",
+  "actualitat.hero.subtitle": "Actualitat a Mediona",
+  "actualitat.viewer.placeholder": "Selecciona una notícia per veure el PDF.",
+
+  "actualitat.news.28": "Carta a l'Ajuntament - Tall del ple",
+  "actualitat.news.27": "60 dies Gener 2025",
+  "actualitat.news.26": "60 dies Octubre 2024",
+  "actualitat.news.25": "Resum reunió veïns La Font i Sant Elies",
+  "actualitat.news.24": "Denúncia residus i sol·licitud d'informació gespa artificial",
+  "actualitat.news.23": "60 dies Estiu 2024",
+  "actualitat.news.22": "Sol·licitud documentació detall cobraments i pagaments d'efectiu",
+  "actualitat.news.21": "Revisió documentació",
+  "actualitat.news.20": "60 dies Juny 2024",
+  "actualitat.news.19": "60 dies Maig 2024",
+  "actualitat.news.18": "60 dies Abril 2024",
+  "actualitat.news.17": "60 dies Març 2024 - El Suplement (Especial dia de la dona)",
+  "actualitat.news.16": "60 dies Febrer 2024 - El Suplement",
+  "actualitat.news.15": "Informes incomplets sobre la recollida d'escombraries",
+  "actualitat.news.14": "Informe medi ambient, cisternes, reunió 21 febrer",
+  "actualitat.news.13": "Sol·licitud documentació",
+  "actualitat.news.12": "60 dies Febrer 2024",
+  "actualitat.news.11": "Carta a l'Ajuntament - AAVV La Font del Bosc",
+  "actualitat.news.10": "60 dies Desembre 2023 - Article complet",
+  "actualitat.news.9": "60 dies Desembre 2023",
+  "actualitat.news.8": "Taxa d'escombreries - UCIN vota NO!",
+  "actualitat.news.7": "Carta a l'Ajuntament - Denúncia residus contaminants",
+  "actualitat.news.6": "Carta a l'Ajuntament - Taxa d'escombreries",
+  "actualitat.news.5": "Carta a l'Ajuntament - Incompliment amb l'oposició",
+  "actualitat.news.4": "Primers 90 dies a l'oposició",
+  "actualitat.news.3": "Carta a l'Ajuntament - Restricció o censura?",
+  "actualitat.news.2": "Carta a l'Ajuntament - Millores necessàries",
+  "actualitat.news.1": "60 dies Juliol 2023",
+
+  "contact.page.title": "UCIN Mediona",
+  "contact.hero.title": "Contacta amb nosaltres",
+  "contact.hero.subtitle": "Envia’ns el teu missatge i et respondrem el més aviat possible",
+  "contact.form.name": "Nom",
+  "contact.form.email": "Correu electrònic",
+  "contact.form.subject": "Assumpte",
+  "contact.form.message": "Missatge",
+  "contact.form.button": "Enviar missatge"
+
 }

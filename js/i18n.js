@@ -18,19 +18,19 @@ async function loadLanguage(lang) {
   document.dispatchEvent(new Event("languageChanged"));
 }
 
+// function getValue(obj, path) {
+//   return path.split('.').reduce((acc, part) => acc && acc[part], obj);
+// }
 function applyTranslations() {
   document.querySelectorAll("[data-i18n]").forEach(el => {
-    const keys = el.dataset.i18n.split(".");
-    let text = translations;
+    const key = el.getAttribute("data-i18n");
+    const value = translations[key];
 
-    keys.forEach(k => {
-      text = text?.[k];
-    });
-
-    if (text) el.innerHTML = text;
+    if (value) {
+      el.innerHTML = value.replace(/\n/g, "<br>");
+    }
   });
 }
-
 var idioma = localStorage.getItem("language") || "ca";
 // idioma por defecto
 loadLanguage(idioma);

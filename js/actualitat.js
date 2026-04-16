@@ -1,7 +1,7 @@
 let noticiasData = [];
 
 function t(key) {
-  return key.split('.').reduce((obj, i) => obj?.[i], translations) || key;
+  return translations[key] || key;
 }
 
 function renderNoticias(data) {
